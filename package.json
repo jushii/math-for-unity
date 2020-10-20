@@ -1,0 +1,7 @@
+{
+  "name": "com.jpt.mathforunity",
+  "version": "1.0.0",
+  "displayName": "Math for Unity",
+  "description": "Math stuff for Unity.",
+  "type": "library"
+}
